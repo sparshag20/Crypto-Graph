@@ -6,7 +6,7 @@ import Coin from "./pages/Coin"
 import CoinsData from "./pages/CoinsData";
 import HomePage from "./pages/HomePage";
 import News from "./pages/News";
-
+import './index.css';
 function App() {
   return(
   <BrowserRouter>
